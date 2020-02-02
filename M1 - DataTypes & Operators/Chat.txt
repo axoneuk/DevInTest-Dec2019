@@ -1,0 +1,5 @@
+﻿12/14/2019    07:36:42 AM    from Sudha to Axone Host (privately):	Datatyoes are only for input values? Do we also define datatype for output value lets say X=2 Y=0 and Z=X/Y ..Print Z in this can Z is infinite and doesnt fal in any of the data types ?
+12/14/2019    08:26:49 AM    from Venkat N to Everyone:	Hi Ram
+12/14/2019    08:26:53 AM    from Venkat N to Everyone:	We are able to hear you
+12/14/2019    08:27:04 AM    from Venkat N to Everyone:	Am afraid, you can't hear us
+12/14/2019    08:28:58 AM    from Sudha to Everyone:	Yes
