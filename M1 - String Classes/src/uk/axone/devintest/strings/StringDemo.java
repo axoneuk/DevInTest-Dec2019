@@ -25,6 +25,7 @@ public class StringDemo {
         sBuff.append(" - DEv In Test");
         sBuff.append(" : DEc 2020");
         System.out.println(sBuff);
+        System.out.println(sBuff);
 
     }
 
